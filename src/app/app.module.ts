@@ -11,6 +11,7 @@ import { ShoppingListEditComponent } from './shopping-list/shopping-list-edit/sh
 import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { CarlComponent } from './carl/carl.component';
+import { LukeComponent } from './luke/luke.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { CarlComponent } from './carl/carl.component';
     RecipeDetailComponent,
     WelcomeComponent,
     CarlComponent,
+    LukeComponent,
   ],
   imports: [
     BrowserModule
