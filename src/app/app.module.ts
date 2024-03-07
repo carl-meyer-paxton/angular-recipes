@@ -12,6 +12,7 @@ import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.com
 import { WelcomeComponent } from './welcome/welcome.component';
 import { CraigComponent } from './craig/craig.component';
 import { LukeComponent } from './luke/luke.component';
+import { RebaseComponent } from './rebase/rebase.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { LukeComponent } from './luke/luke.component';
     WelcomeComponent,
     CraigComponent,
     LukeComponent,
+    RebaseComponent,
   ],
   imports: [
     BrowserModule
