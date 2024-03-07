@@ -13,6 +13,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { CraigComponent } from './craig/craig.component';
 import { LukeComponent } from './luke/luke.component';
 import { RebaseComponent } from './rebase/rebase.component';
+import { TestComponent } from './test/test.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import { RebaseComponent } from './rebase/rebase.component';
     CraigComponent,
     LukeComponent,
     RebaseComponent,
+    TestComponent,
   ],
   imports: [
     BrowserModule
